@@ -1,4 +1,5 @@
-# awesome-arturo
+# Awesome Arturo
+
 A catalogued list of awesome Arturo projects
 
 [Meta](#meta) | [Extensions](#extensions) | [Libraries/Modules](#librariesmodules) | [Tools](#tools)
